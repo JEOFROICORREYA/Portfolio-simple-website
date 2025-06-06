@@ -14,7 +14,3 @@ Form Page – You can fill it out, but it doesn’t actually do anything (yet)
 
 🧪 Why?
 Because I was bored and wanted to make something cool-looking. Mission accomplished. 😎
-
-🔗 Live Demo?
-Maybe later. Or maybe not. Who knows?
-
